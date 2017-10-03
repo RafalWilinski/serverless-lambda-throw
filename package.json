@@ -1,0 +1,8 @@
+{
+  "name": "serverless-lambda-throw",
+  "version": "0.0.1",
+  "description": "Throw native Errors from your Lambda functions",
+  "main": "index.js",
+  "author": "Rafal Wilinski <https://rwilinski.me>",
+  "license": "MIT"
+}
